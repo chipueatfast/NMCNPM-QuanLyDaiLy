@@ -1,0 +1,10 @@
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\DAL\bin\Debug\DAL.exe.config
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\DAL\bin\Debug\DAL.exe
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\DAL\bin\Debug\DAL.pdb
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\DAL\obj\Debug\DAL.exe
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\DAL\obj\Debug\DAL.pdb
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\DAL\bin\Debug\QuanLyDaiLy.mdf
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\DAL\bin\Debug\QuanLyDaiLy_log.ldf
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\DAL\bin\Debug\DTO.exe
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\DAL\bin\Debug\DTO.pdb

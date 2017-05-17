@@ -1,0 +1,12 @@
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\BUS\bin\Debug\QuanLyDaiLy.mdf
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\BUS\bin\Debug\QuanLyDaiLy_log.ldf
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\BUS\bin\Debug\BUS.exe.config
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\BUS\bin\Debug\BUS.exe
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\BUS\bin\Debug\BUS.pdb
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\BUS\bin\Debug\DAL.exe
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\BUS\bin\Debug\DAL.pdb
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\BUS\obj\Debug\BUS.exe
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\BUS\obj\Debug\BUS.pdb
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\BUS\bin\Debug\DTO.exe
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\BUS\bin\Debug\DTO.pdb

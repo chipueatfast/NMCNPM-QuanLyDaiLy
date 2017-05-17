@@ -1,0 +1,50 @@
+﻿<Window x:Class="GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525"
+        Activated="Window_Activated">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Tên Đại Lý: " HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="1"  Text="Loại Đại Lý:" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="2" Text="Quận:" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="3" Text="Số Điện Thoại" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox Grid.Column="1" x:Name="tendaily_ui"/>
+        <ComboBox x:Name="loaidaily_ui" Grid.Column="1" Grid.Row="1">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding MaLoaiDaiLy}"/>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <ComboBox x:Name="quan_ui" Grid.Column="1" Grid.Row="2">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding TenQuan}"/>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+            
+        </ComboBox>
+        <TextBox x:Name="sodienthoai_ui" Grid.Column="1" Grid.Row="3"/>
+        <Button Grid.Row="4" x:Name="view_ui" Content="VIEW"/>
+
+        <Button Grid.Row="4" Grid.Column="1" x:Name="add" Content="Add" HorizontalAlignment="Center" VerticalAlignment="Center" Click="add_Click"/>
+        
+
+
+    </Grid>
+</Window>

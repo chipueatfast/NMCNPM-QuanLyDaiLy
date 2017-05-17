@@ -1,0 +1,6 @@
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\DTO\bin\Debug\DTO.exe.config
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\DTO\bin\Debug\DTO.exe
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\DTO\bin\Debug\DTO.pdb
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\DTO\obj\Debug\DTO.exe
+D:\SeriousProgramming\NMCNPM-QuanLyDaiLy\DTO\obj\Debug\DTO.pdb
